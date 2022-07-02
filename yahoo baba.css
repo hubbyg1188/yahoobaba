@@ -48,7 +48,7 @@ h2{
     
 }
 #banner{
-    background: url("/alvin-engler-bIhpiQA009k-unsplash.jpg");
+    background: url("alvin-engler-bIhpiQA009k-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -94,7 +94,7 @@ margin-bottom: 15px;
 }
 #tast{
     color: white;
-    background:url("/nicolas-thomas-PLDkBHbM3Hc-unsplash.jpg"),rgba(52, 73,94, 0.7);
+    background:url("nicolas-thomas-PLDkBHbM3Hc-unsplash.jpg"),rgba(52, 73,94, 0.7);
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
